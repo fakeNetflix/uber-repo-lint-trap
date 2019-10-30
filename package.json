@@ -29,7 +29,7 @@
     "deep-extend": "~0.3.2",
     "dotty": "0.0.2",
     "editorconfig": "^0.12.1",
-    "eslint": "~0.13.0",
+    "eslint": "~6.6.0",
     "event-stream": "^3.2.2",
     "extend": "^2.0.0",
     "find-parent-dir": "^0.3.0",
