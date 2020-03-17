@@ -38,7 +38,7 @@
     "jshint": "~2.6.0",
     "jsonfile": "~2.0.0",
     "jsonstream2": "^1.1.0",
-    "minimist": "~1.1.0",
+    "minimist": "~1.2.5",
     "npm-which": "^2.0.0",
     "partial": "0.0.3",
     "pluralize": "^1.1.2",
